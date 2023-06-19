@@ -1,0 +1,8 @@
+Clentaminator Can Hit NPCs
+
+As the name suggests, this mod allows the Clentaminator and Terraformer to deal damage to enemies. Clentaminator now has 60 damage and Terraformer now has 95 damage, equal to their range. In addition, Clentaminator's spray damage decreases by 10% for each enemy it pierces, and Terraformer ignores enemy invincibility frames; They won't benefit frome bonuses such as "xx% increased ranged damage" and they usually can't crit either. Based on simple testing, in battles against the Destroyer, Clentaminator is not stronger than Flamethrower and the combination of Titanium Repeater and Jester's Arrow. If you still have any doubts about balance, please leave your control group and its dps in comment for reference.
+
+This content is also included in the Fantasy Time mod.
+
+
+
